@@ -12,7 +12,7 @@ I'm a passionate [Your Role or Job Title] based in [Your Location]. Welcome to m
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://img.shields.io/github/stats-raw/o2sa)
+![O2sa's GitHub stats](https://github-readme-stats.vercel.app/api?username=o2sa&show_icons=true&theme=radical)
 
 
 ## Contact Me
