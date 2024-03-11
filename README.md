@@ -65,7 +65,7 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://o2sa.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://o2sa.github.io/"><img alt="Website" src="https://img.shields.io/badge/o2sa.github.io?style=flat-square&logo=web"></a>
 <a href="https://www.linkedin.com/in/osama-mabkhot/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-osama.f.mabkhot@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
