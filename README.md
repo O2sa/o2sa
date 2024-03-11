@@ -44,7 +44,7 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
 <br/>
 
 <a href="https://github.com/o2sa">
-  <img  height="180em"  src="https://github-profile-trophy.vercel.app/?username=o2sa&theme=gitdimmed&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=-C" />
+  <img  height="180em"  src="https://github-profile-trophy.vercel.app/?username=o2sa&theme=onedark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o2sa&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2sa&theme=buefy&layout=compact" />
 </a>
