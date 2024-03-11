@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**O2sa/o2sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate [Your Role or Job Title] based in [Your Location]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as [Your Current Position] at [Your Company/Organization]
+- 🎓 Graduated with a degree in [Your Field of Study]
+- 💻 Skilled in [List of Your Skills, e.g., React, JavaScript, Python, etc.]
+- 🌱 Currently learning [Topics or Technologies You're Learning]
+
+
+## GitHub Stats
+
+![Your GitHub Stats](https://img.shields.io/github/stats-raw/o2sa)
+
+
+## Contact Me
+
+- 📧 Email: [My Email Address](mailto:osama.f.mabkhot@gmail.com)
+- 🌐 Website: [Your Website](Link to Your Website)
+- 💼 LinkedIn: [Your LinkedIn Profile](Link to Your LinkedIn Profile)
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
+
