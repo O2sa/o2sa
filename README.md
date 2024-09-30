@@ -48,9 +48,6 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o2sa&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2sa&theme=buefy&layout=compact" />
 </a>
-## My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o2sa&layout=compact&theme=radical)
 
 
 ## Languages I Code In
