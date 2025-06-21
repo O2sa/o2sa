@@ -10,13 +10,12 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=276DC3)
-  ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart&logoColor=276DC3)
 
 
   ![express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=276DC3)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=276DC3)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react&logoColor=276DC3)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=276DC3)
   ![flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=276DC3)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=276DC3)
