@@ -49,16 +49,12 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
 
 <br/>
 
-<a href="https://github.com/o2sa">
-  <img  height="180em"  src="https://github-profile-trophy.vercel.app/?username=o2sa&theme=onedark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o2sa&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2sa&theme=buefy&layout=compact" />
-</a>
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o2sa&theme=gruvbox)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o2sa&theme=gruvbox&utcOffset=8)
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o2sa&theme=gruvbox)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o2sa&theme=gruvbox)
 
 
-## Languages I Code In
-
-![Languages Bar Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o2sa&theme=default)
 
 <br/>
 
