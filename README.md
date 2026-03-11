@@ -61,7 +61,7 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://osamamabkhot.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-osamamabkhot.vercel.app-blue?logo=profile"></a>
+<a href="https://osamamabkhot.dev"><img alt="Website" src="https://img.shields.io/badge/Website-osamamabkhot.dev-blue?logo=profile"></a>
 <a href="https://www.linkedin.com/in/osama-mabkhot/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Osama%20Mabkhout-blue?logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:osama.f.mabkhot@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Osama%20Mabkhout-blue?logo=gmail"></a>
