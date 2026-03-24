@@ -53,6 +53,7 @@ I'm a passionate full stack developer. Welcome to my GitHub profile!
 ![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o2sa&theme=gruvbox&utcOffset=8)
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o2sa&theme=gruvbox)
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o2sa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=o2sa&theme=gruvbox)
 
 
 
