@@ -1,6 +1,6 @@
 # Hello, I'm Osama! 👋
 
-I'm a passionate full stack developer. Welcome to my GitHub profile!
+I'm a software engineer. Welcome to my GitHub profile!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=o2sa)
 
