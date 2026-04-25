@@ -2,8 +2,7 @@
 
 I'm a software engineer. Welcome to my GitHub profile!
 
-![GitHub Streak](https://streak-stats.demolab.com?user=o2sa)
-
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=o2sa&show_icons=true)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -49,11 +48,6 @@ I'm a software engineer. Welcome to my GitHub profile!
 
 <br/>
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o2sa&theme=gruvbox)
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=o2sa&theme=gruvbox&utcOffset=8)
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=o2sa&theme=gruvbox)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=o2sa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=o2sa&theme=gruvbox)
 
 
 
