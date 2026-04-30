@@ -1,11 +1,18 @@
-# Hello, I'm Osama! 👋
+<div align="center">
 
-I'm a software engineer. Welcome to my GitHub profile!
+# Hi, I'm Osama Mabkhot 👋
 
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=o2sa&show_icons=true)
+**Software Engineer**
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40o2sa-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/o2sa) [![Website](https://www.shieldcn.dev/badge/Website-osamamabkhot.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://osamamabkhot.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40osama--mabkhout-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/osama-mabkhout)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/o2sa.svg?variant=secondary&size=sm)](https://github.com/o2sa?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/o2sa.svg?variant=secondary&size=sm)](https://github.com/o2sa?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-37-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/o2sa?tab=repositories) 
+
+</div>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
+## 🛠️ Skills & Technologies
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
